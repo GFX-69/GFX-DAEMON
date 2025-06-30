@@ -6,7 +6,7 @@
 
 `git clone https://github.com/GFX-69/GFX-DAEMON.git `
 
-`cd daemon`
+`cd GFX-DAEMON`
 
 `apt install zip -y && unzip daemon.zip && cd daemon`
 
