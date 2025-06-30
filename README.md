@@ -4,7 +4,7 @@
 
 ## INSTALLATIONS
 
-`git clone `
+`git clone https://github.com/GFX-69/GFX-DAEMON.git `
 
 `cd daemon`
 
